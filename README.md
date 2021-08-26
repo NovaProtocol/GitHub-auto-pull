@@ -4,5 +4,7 @@ This should pull from GitHub whenever a new commit is made and run the main file
 Please note that this is a bad solution for executing a script on a remote machine and is just here for the sole reason of testing an idea.
 
 [TEST]
+
 // ignore the lines below. This is just to add to the commit count for testing purposes
-test_count = 1
+
+test_count = 2
