@@ -7,4 +7,4 @@ Please note that this is a bad solution for executing a script on a remote machi
 
 // ignore the lines below. This is just to add to the commit count for testing purposes
 
-test_count = 2
+test_count = 3
